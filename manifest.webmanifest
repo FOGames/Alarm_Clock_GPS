@@ -1,0 +1,16 @@
+{
+  "name": "WakeWay — Destination Alarm",
+  "short_name": "WakeWay",
+  "description": "A destination alarm for public transportation passengers.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0b1220",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
